@@ -1,0 +1,33 @@
+@font-face
+ {
+    src: url(Roboto-Black.ttf);
+    font-family: Roboto;
+}
+.text
+{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.end
+   {
+       font-family:Roboto ;
+       text-align: right;
+       text-transform: unset;
+   }
+
+   .title{
+    color: green;
+    font-size: 1rem;
+    text-transform: capitalize;
+}
+#maintitle
+    {
+        text-align: center;
+        color: black;
+        font-size: 2rem;
+   }
+.year
+  {
+      text-align: center;
+      text-decoration: teal;
+      font-weight: bold;
+  }
